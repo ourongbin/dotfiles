@@ -1,3 +1,6 @@
+alias push='git push'
+alias ll='ls -lG'
+
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
 # Add `~/bin` to the `$PATH`
