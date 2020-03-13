@@ -1,3 +1,5 @@
+export BASH_SILENCE_DEPRECATION_WARNING=1
+
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH";
 
